@@ -1,0 +1,17 @@
+beans:
+  - id: projectDAO
+    clazz: com.example.dao.NaiveProjectDAOImpl
+  - id: projectAppServ
+    clazz: com.example.appserv.ProjectAppServ
+  
+spring:
+  - http.multipart.max-file-size: 1Mb
+  - http.multipart.max-request-size: 10Mb
+  - http.multipart.max-post-size: 10Mb
+  - application:
+     name: java_spring_boot_swagger
+  
+server:
+  - port: 9000
+  - servlet:
+        contextPath: /java_spring_boot_swagger
