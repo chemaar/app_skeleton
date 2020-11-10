@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.org/chemaar/app_skeleton.svg?branch=main)](https://travis-ci.org/chemaar/app_skeleton)
 
+![Java CI with Maven](https://github.com/chemaar/app_skeleton/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 ## Getting the code
 
 - Excecute the next command `git clone https://github.com/chemaar/app_skeleton.git`
