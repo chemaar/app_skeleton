@@ -1,5 +1,9 @@
 # Example of Spring Boot+Swagger application
 
+## Status
+
+[![Build Status](https://travis-ci.org/chemaar/app_skeleton.svg?branch=main)](https://travis-ci.org/chemaar/app_skeleton)
+
 ## Getting the code
 
 - Excecute the next command `git clone https://github.com/chemaar/app_skeleton.git`
