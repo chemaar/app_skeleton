@@ -4,6 +4,7 @@
 
 ![Java CI with Maven](https://github.com/chemaar/app_skeleton/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![Build Status](https://travis-ci.org/chemaar/app_skeleton.svg?branch=main)](https://travis-ci.org/chemaar/app_skeleton)
+![CodeQL](https://github.com/chemaar/app_skeleton/workflows/CodeQL/badge.svg)
 
 ## Getting the code
 
